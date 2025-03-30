@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVenta.API",
+    "\\SistemaVenta.BLL",
+    "\\SistemaVenta.BLL\\Servicios",
+    "\\SistemaVenta.DAL",
+    "\\SistemaVenta.DAL\\Repositorios",
+    "\\SistemaVenta.DAL\\Repositorios\\Contrato",
+    "\\SistemaVenta.DTO"
+  ],
+  "PreviewInSolutionExplorer": false
+}
